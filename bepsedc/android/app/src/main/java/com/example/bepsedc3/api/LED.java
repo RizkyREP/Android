@@ -3,6 +3,7 @@ package com.example.bepsedc3.api;
 import android.os.RemoteException;
 
 
+import com.example.bepsedc3.ServiceClass;
 import com.usdk.apiservice.aidl.led.Light;
 import com.usdk.apiservice.aidl.led.ULed;
 import com.example.bepsedc3.MainActivity;

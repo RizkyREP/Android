@@ -3,6 +3,7 @@ package com.example.bepsedc3.api;
 import android.os.RemoteException;
 
 import com.example.bepsedc3.MainActivity;
+import com.example.bepsedc3.ServiceClass;
 import com.usdk.apiservice.aidl.beeper.UBeeper;
 
 /**

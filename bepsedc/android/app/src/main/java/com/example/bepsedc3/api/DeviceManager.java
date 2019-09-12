@@ -7,6 +7,7 @@ import android.os.RemoteException;
 //import com.arke.sdk.ArkeSdkDemoApplication;
 //import com.arke.sdk.R;
 import com.example.bepsedc3.MainActivity;
+import com.example.bepsedc3.ServiceClass;
 import com.usdk.apiservice.aidl.device.UDeviceManager;
 
 

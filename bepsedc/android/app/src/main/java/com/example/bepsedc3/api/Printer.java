@@ -6,6 +6,7 @@ import android.os.RemoteException;
 
 import com.example.bepsedc3.MainActivity;
 import com.example.bepsedc3.R;
+import com.example.bepsedc3.ServiceClass;
 import com.usdk.apiservice.aidl.printer.FactorMode;
 import com.usdk.apiservice.aidl.printer.OnPrintListener;
 import com.usdk.apiservice.aidl.printer.PrinterError;
